@@ -74,11 +74,11 @@ Model | EM | F1
 Baseline | 55.60 | 59.24
 Character embeddings | 59.67 | 63.31
 Word + character embeddings | 59.49 | 62.75
-Baseline | 60.23 | 63.54
-Baseline | 59.28 | 62.62
-Baseline | 55.73 | 59.72
-Baseline | 58.28 | 61.82
-Baseline | 65.08 | 68.76
+Term frequency | 60.23 | 63.54
+Part-of-speech tags | 59.28 | 62.62
+Dynamic coattention decoder | 55.73 | 59.72
+Dynamic coattention decoder + char embeddings | 58.28 | 61.82
+QANet + char embeddings | 65.08 | 68.76
 
 ## Conclusion
 
